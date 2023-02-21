@@ -1,0 +1,109 @@
+body {
+  text-align: center;
+  font-family: "Ubuntu", sans-serif;
+  color: #20262e;
+}
+
+h2,
+h3,
+h4 {
+  margin: 20px 0 5px 0;
+  font-weight: bold;
+}
+
+p {
+  line-height: 1.8;
+}
+
+/* Section One */
+
+/* #section-one {
+} */
+
+.heading-container {
+  width: 55%;
+  margin: 20px auto;
+}
+
+#heading {
+  padding: 50px 0 10 0;
+  font-weight: bold;
+  font-size: 2.7rem;
+}
+
+.heading-text {
+  font-weight: lighter;
+}
+
+.btn {
+  margin: 20px 10px 0 5px;
+}
+
+.hu-tao {
+  width: 40%;
+  height: 40%;
+}
+
+/* Section Two  */
+
+#section-two {
+  background-color: #e9ecef;
+  margin: 2rem auto;
+  /* padding: 3rem; */
+}
+
+.info {
+  padding: 2%;
+}
+
+.text {
+  padding-top: 1rem;
+}
+
+.paimon-treasure {
+  height: 250px;
+  width: 250px;
+}
+
+/* Section three */
+
+#section-three {
+  margin: 7%;
+}
+
+.travelers {
+  width: 60%;
+  height: 60%;
+}
+
+.team-build {
+  width: 40%;
+  margin: auto;
+}
+
+.team {
+  padding: 1rem 0;
+  font-size: 3rem;
+  font-weight: bolder;
+}
+
+.carousel-control-prev {
+  width: 50px;
+  height: 100px;
+  margin: auto;
+  background-color: gray;
+}
+
+.carousel-control-next {
+  width: 50px;
+  height: 100px;
+  margin: auto;
+  background-color: gray;
+}
+
+footer {
+  background-color: #e9ecef;
+  padding: 10px;
+  font-size: 0.7rem;
+  text-decoration-line: line-through;
+}
